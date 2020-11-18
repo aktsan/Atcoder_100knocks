@@ -14,3 +14,5 @@ for i in range(len(li)):
     elif li[i] == Q:
         q_index = i+1
 print(abs(p_index-q_index))
+
+#これは意外と簡単やった
